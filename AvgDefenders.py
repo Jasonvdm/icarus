@@ -36,4 +36,8 @@ with open('Data/DefendersAvg.csv', 'wb') as test_file:
 			numStarts = 1
 		index +=1
 		lastIdNumber = idNumber
+	for key in playerStats:    
+		if isinstance( playerStats[key], (int,long,float)):
+			playerStats[key] /=  numStarts
+	file_writer.writerow(playerStats)
 test_file.close()
