@@ -1,0 +1,144 @@
+70000.0: 72505.6229322
+60000.0: 50582.2337389
+70000.0: 52257.4284597
+35000.0: 35546.585605
+20000.0: 46448.4487707
+30000.0: 25637.7848045
+40000.0: 27552.5308978
+20000.0: 27708.1016002
+15000.0: 28228.7271708
+12000.0: 37925.9214178
+12000.0: 25428.9082768
+12000.0: 32075.0590076
+12000.0: 2793.23058991
+10000.0: 3869.3294852
+20000.0: 36674.4833804
+40000.0: 66052.951361
+40000.0: 46999.6790868
+75000.0: 51551.434783
+175000.0: 70824.2872599
+70000.0: 37569.813411
+Key Passes: -23.8086004773
+Total Successful Passes Excl Crosses Corners: 265.090255838
+Total Unsuccessful Passes Excl Crosses Corners: -1519.69300064
+Successful Passes Own Half: 1606.99934983
+Unsuccessful Passes Own Half: -1342.70765132
+Successful Passes Opposition Half: -1341.90909192
+Unsuccessful Passes Opposition Half: -176.985348613
+Successful Passes Defensive third: -1076.71102597
+Unsuccessful Passes Defensive third: -876.704355609
+Successful Passes Middle third: -311.758716012
+Unsuccessful Passes Middle third: 188.880991885
+Successful Passes Final third: 1653.56001319
+Unsuccessful Passes Final third: -831.869637193
+Successful Short Passes: 1092.15610915
+Unsuccessful Short Passes: -1451.8624056
+Successful Long Passes: -827.065859927
+Unsuccessful Long Passes: -67.8305940712
+Successful Flick-Ons: -101.26987684
+Unsuccessful Flick-Ons: 71.5077801188
+Successful Crosses Corners: -17.7718159232
+Unsuccessful Crosses Corners: 77.820801699
+Corners Taken incl short corners: -42.3257623577
+Corners Conceded: -620.943209289
+Successful Corners into Box: 19.2909180993
+Unsuccessful Corners into Box: -25.265081182
+Short Corners: -28.0487259778
+Throw Ins to Own Player: -1138.17247777
+Throw Ins to Opposition Player: -864.195264758
+Successful Dribbles: 590.842905693
+Unsuccessful Dribbles: 519.030236838
+Successful Crosses Corners Left: -27.1418408502
+Unsuccessful Crosses Corners Left: -200.544221828
+Successful Crosses Left: -15.2814550324
+Unsuccessful Crosses Left: -166.743044055
+Successful Corners Left: -11.8603859281
+Unsuccessful Corners Left: -33.8011774741
+Successful Crosses Corners Right: 9.37002629439
+Unsuccessful Crosses Corners Right: 286.667896637
+Successful Crosses Right: -21.781277733
+Unsuccessful Crosses Right: 278.131800345
+Successful Corners Right: 31.1513039171
+Unsuccessful Corners Right: 8.53609618178
+Successful Long Balls: 395.608821201
+Unsuccessful Long Balls: 1984.13065453
+Successful Lay-Offs: -1691.89128704
+Unsuccessful Lay-Offs: -2.5423641018
+Through Ball: 19.7148089174
+Successful Crosses Corners in the air: -18.5026434717
+Unsuccessful Crosses Corners in the air: 77.7048305631
+Successful crosses in the air: -32.1479278261
+Unsuccessful crosses in the air: 102.969912229
+Successful open play crosses: -39.824653057
+Unsuccessful open play crosses: 111.388755903
+Touches: -1041.15216504
+Key Set Pieces: -86.394057262
+Duels won: 1080.21798211
+Duels lost: 393.673578188
+Aerial Duels won: 425.994166173
+Aerial Duels lost: -249.646491444
+Ground Duels won: 654.223814793
+Ground Duels lost: 643.320069077
+Tackles Won: 93.1357944381
+Tackles Lost: -0.610126343523
+Last Man Tackle: -49.1620064464
+Total Clearances: 296.254514773
+Headed Clearances: 1398.56372379
+Other Clearances: -1102.30920906
+Clearances Off the Line: 22.8881307477
+Blocks: 218.287366669
+Interceptions: 486.057389841
+Recoveries: 3758.6853066
+Total Fouls Conceded: 587.633616511
+Fouls Conceded exc handballs pens: 675.203437701
+Total Fouls Won: -29.1447577212
+Fouls Won in Danger Area inc pens: 45.8792325998
+Fouls Won not in danger area: -75.0239905436
+Foul Won Penalty: 31.3823982158
+Handballs Conceded: -67.4484836336
+Penalties Conceded: -27.4332391418
+Offsides: 73.9090918923
+Yellow Cards: -168.16098672
+Red Cards: 60.9749272072
+Error leading to Goal: -45.8779225467
+Error leading to Attempt: -40.869063983
+Challenge Lost: -339.966620576
+Shots On Conceded: 0.0
+Shots On Conceded Inside Box: 0.0
+Shots On Conceded Outside Box: 0.0
+Team Formation: 719.430339182
+Position in Formation: -886.026645964
+Turnovers: 0.0
+Dispossessed: -190.825647671
+Big Chances: 133.234842365
+Big Chances Faced: 0.0
+Pass Forward: 359.297366098
+Pass Backward: -1717.1106536
+Pass Left: 31.5514284417
+Pass Right: 37.8192015416
+Unsuccessful Ball Touch: -354.183888494
+Successful Ball Touch: 512.286285112
+Take-Ons Overrun: 94.9665562316
+Touches open play final third: 2804.73754127
+Touches open play opp box: 307.483920477
+Touches open play opp six yards: 409.964346926
+Arsenal: 0.0
+Aston Villa: 0.0
+Blackburn Rovers: 0.0
+Bolton Wanderers: 0.0
+Chelsea: 0.0
+Everton: 549.67064642
+Fulham: -262.041711143
+Liverpool: 1195.8281849
+Manchester City: 1822.80665063
+Manchester United: -416.145134525
+Newcastle United: -213.157592697
+Norwich City: -772.648367017
+Queens Park Rangers: 701.143689472
+Stoke City: 39.1455388592
+Sunderland: 289.915668973
+Swansea City: -850.794931201
+Tottenham Hotspur: -845.27679869
+West Bromwich Albion: -57.1693075837
+Wigan Athletic: -406.112014212
+Wolverhampton Wanderers: -775.164522187
