@@ -7,9 +7,9 @@ from sklearn import datasets
 from sklearn import svm
 from sklearn.decomposition import PCA
 
-featureMat = numpy.loadtxt('Data/DefendersFeatureMatrixMin.csv',delimiter = ",")
+featureMat = numpy.loadtxt('Data/DefendersFeatureMatrixMin2.csv',delimiter = ",")
 labels = numpy.loadtxt('Data/DefendersSalaryMin.csv',delimiter =",")
-headers = numpy.loadtxt('Data/HeadersMin.csv', dtype = str , delimiter=",")
+headers = numpy.loadtxt('Data/HeadersMin2.csv', dtype = str , delimiter=",")
 
 teams = ["Arsenal", "Aston Villa", "Blackburn Rovers", "Bolton Wanderers", "Chelsea", "Everton", "Fulham", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Norwich City", "Queens Park Rangers", "Stoke City", "Sunderland", "Swansea City", "Tottenham Hotspur", "West Bromwich Albion", "Wigan Athletic", "Wolverhampton Wanderers"]
 
@@ -39,10 +39,10 @@ with open('Data/DefendersAvg.csv', 'wb') as test_file:
 labels = []
 for team in teams:
 	if team != "Arsenal":
-		labels.append(goalsScoredAgainst[team])
-	labels.append(goalsScoredAgainst[team])
-	labels.append(goalsScoredAgainst[team])
-	labels.append(goalsScoredAgainst[team])
+		labels.append(goalsScoredAgainst[team]*-1)
+	labels.append(goalsScoredAgainst[team]*-1)
+	labels.append(goalsScoredAgainst[team]*-1)
+	labels.append(goalsScoredAgainst[team]*-1)
 
 
 
@@ -69,10 +69,19 @@ model.fit(trainMat,trainLabels)
 
 predictions = model.predict(testMat)
 
-for index in range(len(predictions)):
-	print str(testLabels[index])+": "+str(predictions[index])
+# for index in range(len(predictions)):
+# 	print str(testLabels[index])+": "+str(predictions[index])
 
 for index in range(len(headers)):
- 	print headers[index] +": "+str(model.coef_[index]*-1)
+ 	print headers[index] +": "+str(model.coef_[index])
 
+top5Indices = model.coef_.argsort()[-5:][::-1]
+print "\n\n\n BEST 5"
+for index in top5Indices:
+	print headers[index] +": "+str(model.coef_[index])
+
+top5Indices = model.coef_.argsort()[:5][::-1]
+print "\n\n\n WORST 5"
+for index in top5Indices:
+	print headers[index] +": "+str(model.coef_[index])
 

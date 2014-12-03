@@ -1,4 +1,6 @@
 import csv
+teams = ["Arsenal", "Aston Villa", "Blackburn Rovers", "Bolton Wanderers", "Chelsea", "Everton", "Fulham", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Norwich City", "Queens Park Rangers", "Stoke City", "Sunderland", "Swansea City", "Tottenham Hotspur", "West Bromwich Albion", "Wigan Athletic", "Wolverhampton Wanderers"]
+
 
 sentiment_file = open("Data/SoccerStats.csv", 'rU')
 reader = csv.reader(sentiment_file)
@@ -20,3 +22,9 @@ with open('Data/DefendersAvg.csv', 'wb') as test_file:
 			goalsScoredAgainst[opposition] += int(row['Goals'])
 		else:
 			goalsScoredAgainst[opposition] = int(row['Goals'])
+labels = []
+for team in teams:
+	labels.append(goalsScoredAgainst[team])
+	labels.append(goalsScoredAgainst[team])
+	labels.append(goalsScoredAgainst[team])
+	labels.append(goalsScoredAgainst[team])
