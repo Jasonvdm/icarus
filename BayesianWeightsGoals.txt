@@ -36,7 +36,7 @@ Successful Corners Left: 0.00935086452798
 Unsuccessful Corners Left: 0.0229733831582
 Successful Crosses Corners Right: 0.0233764254716
 Unsuccessful Crosses Corners Right: 0.0968116333139
-Successful Crosses Right: 0.0139334609358
+Successful Crosses Right: 0.0139334609357
 Unsuccessful Crosses Right: 0.0699885014005
 Successful Corners Right: 0.00944296457717
 Unsuccessful Corners Right: 0.0268231319484
@@ -103,18 +103,28 @@ Touches open play opp six yards: 0.0647750493483
 
 
 
- BEST 5
-Recoveries: 0.708213204293
-Successful Passes Final third: 0.489342220658
-Pass Right: 0.396583082451
-Total Successful Passes Excl Crosses Corners: 0.386721093645
-Touches open play final third: 0.379244300932
+ BEST 10
+Recoveries: 100.0
+Successful Passes Final third: 69.0953257708
+Pass Right: 55.9976967455
+Total Successful Passes Excl Crosses Corners: 54.6051798104
+Touches open play final third: 53.5494535591
+Duels won: 48.8409133134
+Pass Left: 47.8132851471
+Unsuccessful Long Balls: 46.5187215929
+Successful Long Passes: 44.0006111346
+Successful Passes Opposition Half: 43.3877908625
 
 
 
- WORST 5
-Other Clearances: -0.339411454412
-Successful Lay-Offs: -0.419093402305
-Throw Ins to Own Player: -0.440455872561
-Total Unsuccessful Passes Excl Crosses Corners: -0.529264338081
-Pass Backward: -0.604680744982
+ WORST 10
+Unsuccessful Passes Final third: -34.399467698
+Touches: -37.1612412056
+Successful Passes Defensive third: -39.8645903667
+Unsuccessful Passes Opposition Half: -41.2287091849
+Unsuccessful Short Passes: -45.0554854617
+Other Clearances: -47.9250390073
+Successful Lay-Offs: -59.1761633029
+Throw Ins to Own Player: -62.1925530181
+Total Unsuccessful Passes Excl Crosses Corners: -74.7323454114
+Pass Backward: -85.3811735388

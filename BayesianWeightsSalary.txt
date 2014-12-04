@@ -125,18 +125,28 @@ Wolverhampton Wanderers: -419.754012851
 
 
 
- BEST 5
-Touches open play final third: 1761.13058223
-Recoveries: 1727.45678031
-Headed Clearances: 1475.90806251
-Duels won: 1412.64261161
-Pass Forward: 1365.87187587
+ BEST 10
+Touches open play final third: 87.3853161593
+Recoveries: 85.7144600302
+Headed Clearances: 73.2328959392
+Duels won: 70.0937355132
+Pass Forward: 67.7730242778
+Successful Short Passes: 55.4240542363
+Successful Passes Own Half: 52.5228274926
+Unsuccessful Long Balls: 49.7087260813
+Manchester City: 47.3764008317
+Aerial Duels won: 40.8939722758
 
 
 
- WORST 5
-Successful Lay-Offs: -1298.10816896
-Unsuccessful Passes Own Half: -1354.84392054
-Pass Backward: -1483.19774631
-Unsuccessful Short Passes: -1782.98477154
-Total Unsuccessful Passes Excl Crosses Corners: -2015.36214508
+ WORST 10
+Successful Long Passes: -39.2324556857
+Throw Ins to Own Player: -47.4527250069
+Successful Passes Defensive third: -50.5988684275
+Unsuccessful Passes Middle third: -57.7573463556
+Other Clearances: -62.8887005758
+Successful Lay-Offs: -64.4106654543
+Unsuccessful Passes Own Half: -67.2258295534
+Pass Backward: -73.5946018401
+Unsuccessful Short Passes: -88.4696964213
+Total Unsuccessful Passes Excl Crosses Corners: -100.0
